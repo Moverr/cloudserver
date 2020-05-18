@@ -1,0 +1,8 @@
+## YAML Template.
+---
+spring:
+    cloud:
+        config:
+            server:
+                git:
+                    url:https://github.com/Moverr/springcloud
