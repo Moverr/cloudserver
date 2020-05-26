@@ -1,4 +1,5 @@
 # Spring cloud Config Server
+![Java CI with Maven](https://github.com/Moverr/cloudserver/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
 
 NOTE: This project requires rabbitmq running on localhost.
 
