@@ -1,4 +1,4 @@
-# Config Server Sample
+# Spring cloud Config Server
 
 NOTE: This project requires rabbitmq running on localhost.
 
