@@ -44,7 +44,7 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-netflix-eureka-server</artifactId> 
             <type>jar</type>
-            <version>2.1.2.BUILD-SNAPSHOT</version>
+            
         </dependency>
     </dependencies>
 	
