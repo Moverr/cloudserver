@@ -22,6 +22,10 @@ eureka:
     leaseRenewalIntervalInSeconds: 10
     statusPageUrlPath: /admin/info
     healthCheckUrlPath: /admin/health
+  client:
+      registerWithEureka: false
+      fetchRegistry: false
+      
 
 
 ---
